@@ -11,3 +11,10 @@ http://pointclouds.org/documentation/tutorials/compiling_pcl_posix.php
 http://www.pointclouds.org/documentation/tutorials/writing_pcd.php#writing-pcd
 
 
+## References
+
+https://stackoverflow.com/questions/32485771/adding-pcl-point-cloud-library-to-existing-project-with-makefiles
+
+
+
+
